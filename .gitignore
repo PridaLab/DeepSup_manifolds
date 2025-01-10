@@ -1,0 +1,14 @@
+#Data Folders
+data/
+
+#Cache
+__pycache__/
+
+#Compilation
+*egg-info/
+
+#Bin files
+bin/
+
+#Matlab temporal autosave files
+*.asv
