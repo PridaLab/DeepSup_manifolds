@@ -11,7 +11,7 @@ In this work, we developed and applied a novel framework for analyzing cell-type
 - Simulating hipppocampal low dimensional neural data.
 - Applying topological data analysis to high-dimensional neural spaces.
 
-We offer a simple jupyter notebook ([DeepSup_manifold_example.ipynb](https://github.com/PridaLab/DeepSup_manifolds/blob/main/DeepSup_manifold_example.ipynb)) that goes step by step into some of the analysis. Given the dataset's size (over 20TB) and how expensive some of the analysis are (such as the betti numbers computations), the jupyter notebook only exemplifies some of the analysis. 
+We offer a simple jupyter notebook ([DeepSup_manifold_example.ipynb](DeepSup_manifold_example.ipynb) that goes step by step into some of the analysis. Given the dataset's size (over 20TB) and how expensive some of the analysis are (such as the betti numbers computations), the jupyter notebook only exemplifies some of the analysis. 
 
 ## Dataset
 
@@ -28,3 +28,24 @@ The code has been structured into different sections:
 - **dimensionality_utils**: multiple tools used to quantify the intrinsic dimensionality of the neural representation.
 - **decoders**: includes different decoder classes as well as functions to decode behavioral functions from neural data and neural manifolds.
 - **simulations**: contains the main Class to generate a statistical model that relates single cell tuning properties to neural manifold geometrical characteristics.
+
+## Citation
+
+If you use this code or data in your research, please cite our paper:  
+
+**"Cell-type-specific manifold analysis discloses independent geometric transformations in the hippocampal spatial code."**  
+Authors: Julio Esparza, et al.  
+Journal: *[Neuron, Volume, Pages, Year]*  
+DOI: [Insert DOI]
+
+## License
+
+This project is licensed under the GPL-3.0 License. See the [`LICENSE`](LICENSE) file for details.
+
+
+## Contact
+
+For questions, data requests, or collaboration inquiries, please reach out to:  
+**Julio Esparza**  
+Email: **julioesparzaibanez@gmail.com**  
+
