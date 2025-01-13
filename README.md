@@ -21,7 +21,7 @@ We offer a simple jupyter notebook ([hippocampal_manifolds_example.ipynb](hippoc
 ## Dataset
 
 The dataset used in this study includes neural recordings from multiple animals across different experimental conditions. 
-- Due to its large size (over 20TB), only a subset of animals for each condition is available in [FigShare](https://figshare.com/account/home#/projects/233675).  
+- Due to its large size (over 20TB), only a subset of animals for each condition is available in [FigShare](https://figshare.com/account/home#/projects/234014).  
 - The complete dataset can be requested by contacting us at lmprida@cajal.csic.es
 
 ## Code Structure
