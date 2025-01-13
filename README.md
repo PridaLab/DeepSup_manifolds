@@ -11,7 +11,12 @@ In this work, we developed and applied a novel framework for analyzing cell-type
 - Simulating hipppocampal low dimensional neural data.
 - Applying topological data analysis to high-dimensional neural spaces.
 
-We offer a simple jupyter notebook ([geometric_manifolds_example.ipynb](geometric_manifolds_example.ipynb)) that goes step by step into some of the analysis. Given the dataset's size (over 20TB) and how expensive some of the analysis are (such as the betti numbers computations), the jupyter notebook only exemplifies some of the analysis. 
+We offer a simple jupyter notebook ([hippocampal_manifolds_example.ipynb](hippocampal_manifolds_example.ipynb)) that goes step by step into some of the analysis. Given the dataset's size (over 20TB) and how expensive some of the analysis are (such as the betti numbers computations), the jupyter notebook only exemplifies some of the analysis. 
+
+<figure>
+  <img src="/readme_fig/geometric_transformation_manifold.png" alt="Hippocampal Manifolds" width="1000"/>
+  <figcaption>Figure 1: Hippocampal Deep CA1 manifolds while the animal performs a forced-linear-alternation task before and after the maze is rotated 180º within the room. Note how the position encoding  rotates following the maze rotation.</figcaption>
+</figure>
 
 ## Dataset
 
