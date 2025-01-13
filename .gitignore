@@ -14,4 +14,4 @@ bin/
 *.asv
 
 #Jupyter temporal autosave files
-.ipynb_checkpoints/
+.ipynb_checkpoints
