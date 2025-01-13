@@ -12,3 +12,6 @@ bin/
 
 #Matlab temporal autosave files
 *.asv
+
+#Jupyter temporal autosave files
+.ipynb_checkpoints/
