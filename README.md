@@ -1,4 +1,4 @@
-# geometric_manifolds
+# hippocampal_manifolds
 This repository contains the code and data associated with the research study: **"Cell-type-specific manifold analysis discloses independent geometric transformations in the hippocampal spatial code."**  
 
 
