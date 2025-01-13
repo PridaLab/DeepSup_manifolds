@@ -46,6 +46,7 @@ This project is licensed under the GPL-3.0 License. See the [`LICENSE`](LICENSE)
 ## Contact
 
 For questions, data requests, or collaboration inquiries, please reach out to:  
+**Liset M. de la Prida**  
+Email: **lmprida@cajal.csic.es**  
 **Julio Esparza**  
 Email: **julioesparzaibanez@gmail.com**  
-
