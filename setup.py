@@ -7,9 +7,9 @@ Created on Fri Feb 18 15:09:57 2022
 
 from setuptools import setup, find_packages
 
-setup(name='geometric_manifolds', 
+setup(name='hippocampal_manifolds', 
       version='0.1', 
-      description = 'Deep-Sup Neural manifolds',
+      description = 'Study hippocampal neural manifolds',
       author = 'Julio Esparza',
       author_email = 'esparzaj@cajal.csic.es',
       packages= find_packages()
