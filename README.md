@@ -11,7 +11,7 @@ In this work, we developed and applied a novel framework for analyzing cell-type
 - Simulating hipppocampal low dimensional neural data.
 - Applying topological data analysis to high-dimensional neural spaces.
 
-We offer a simple jupyter notebook ([DeepSup_manifold_example.ipynb](DeepSup_manifold_example.ipynb)) that goes step by step into some of the analysis. Given the dataset's size (over 20TB) and how expensive some of the analysis are (such as the betti numbers computations), the jupyter notebook only exemplifies some of the analysis. 
+We offer a simple jupyter notebook ([DeepSup_manifold_example.ipynb](geometric_manifolds_example.ipynb)) that goes step by step into some of the analysis. Given the dataset's size (over 20TB) and how expensive some of the analysis are (such as the betti numbers computations), the jupyter notebook only exemplifies some of the analysis. 
 
 ## Dataset
 
