@@ -1,5 +1,5 @@
 # hippocampal_manifolds
-This repository contains the code and data associated with the research study: **"Cell-type-specific manifold analysis discloses independent geometric transformations in the hippocampal spatial code."**  
+This repository contains the code and data associated with the research study: **"Cell-type-specific manifold analysis discloses independent geometric transformations in the hippocampal spatial code."**  Check at https://hippo-circuitlab.es/publications/
 
 
 ## Overview
@@ -21,7 +21,7 @@ We offer a simple jupyter notebook ([hippocampal_manifolds_example.ipynb](hippoc
 ## Dataset
 
 The dataset used in this study includes neural recordings from multiple animals across different experimental conditions. 
-- Due to its large size (over 20TB), only a subset of animals for each condition is available in [FigShare](https://figshare.com/account/home#/projects/233675).  
+- Due to its large size (over 20TB), only a subset of animals for each condition is available in [FigShare](https://figshare.com/account/home#/projects/234014).  
 - The complete dataset can be requested by contacting us at lmprida@cajal.csic.es
 
 ## Code Structure
@@ -39,9 +39,7 @@ The code has been structured into different sections:
 If you use this code or data in your research, please cite our paper:  
 
 **"Cell-type-specific manifold analysis discloses independent geometric transformations in the hippocampal spatial code."**  
-Authors: Julio Esparza, et al.  
-Journal: *[Neuron, Volume, Pages, Year]*  
-DOI: [Insert DOI]
+Check at https://hippo-circuitlab.es/publications/
 
 ## License
 
